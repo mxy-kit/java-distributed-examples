@@ -1,0 +1,10 @@
+DOWN 7
+CHANGECOLOR blue
+NAME Alex
+LU 5
+RD 4
+LD 3
+NAME vegas
+CHANGECOLOR green
+RU 7
+BLINK pink
