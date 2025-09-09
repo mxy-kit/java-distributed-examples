@@ -1,0 +1,15 @@
+car\webservice\MoveCarTo.class
+car\webservice\package-info.class
+car\webservice\MoveCarToResponse.class
+car\webservice\CreateCarResponse.class
+car\webservice\DestroyCar.class
+car\webservice\SetCarName.class
+car\webservice\DestroyCarResponse.class
+car\webservice\ObjectFactory.class
+car\webservice\SetCarNameResponse.class
+car\webservice\SetCarColor.class
+car\webservice\Server.class
+car\webservice\Direction.class
+car\webservice\CreateCar.class
+car\webservice\ServerService.class
+car\webservice\SetCarColorResponse.class
